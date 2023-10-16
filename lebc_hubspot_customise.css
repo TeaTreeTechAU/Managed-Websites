@@ -1,17 +1,17 @@
 body {
   z-index: 0 !important;
   display: none !important;
-  visibility: none !important:
+  visibility: hidden !important:
 }
 
 body hs-cmsf-branding {
   z-index: 0 !important;
   display: none !important;
-  visibility: none !important:
+  visibility: hidden !important:
 }
 
 #shadow-root #hs-cmsf-branding .hs-cmsf-branding__button {
   display: none !important;
-    visibility: none !important:
+    visibility: hidden !important:
 
 }
