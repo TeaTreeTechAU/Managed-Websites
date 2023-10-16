@@ -1,4 +1,10 @@
-hs-cmsf-branding {
+body {
+  z-index: 0 !important;
+  display: none !important;
+  visibility: none !important:
+}
+
+body hs-cmsf-branding {
   z-index: 0 !important;
   display: none !important;
   visibility: none !important:
