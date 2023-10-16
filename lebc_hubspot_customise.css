@@ -1,10 +1,9 @@
-*hs-cmsf-branding {
+#hs-cmsf-branding {
   display: none !important;
   visibility: none !important:
 }
-<!-- #hs-cmsf-branding -->
 
-#hs-cmsf-branding .hs-cmsf-branding__button {
+#shadow-root #hs-cmsf-branding .hs-cmsf-branding__button {
   display: none !important;
     visibility: none !important:
 
